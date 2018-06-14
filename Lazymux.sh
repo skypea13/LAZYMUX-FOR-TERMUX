@@ -10,7 +10,7 @@ cd Lazymux
 
 ls 
 
-python2 Lazymux.py
+python2 lazymux.py
 
 
 
